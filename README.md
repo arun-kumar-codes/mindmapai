@@ -84,10 +84,3 @@ We welcome contributions! Please follow these steps:
 3. Make your changes and commit them (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Thanks to the contributors and the open-source community for their support.
-- Special thanks to the creators of FastAPI, Next.js, LangChain, and OpenAI for their amazing tools and libraries.
